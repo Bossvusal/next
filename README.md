@@ -1,0 +1,2 @@
+# next
+Anlatmaya gerek yok
